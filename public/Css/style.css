@@ -1,0 +1,29 @@
+body {font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.2em;        
+}
+
+.mynav {
+    background-color: #2C363F;
+}
+
+.jumbo {
+    background-color: #F2F5EA;
+    margin-bottom: 0;
+}
+
+.jumbotext {
+    color: #2C363F;
+}
+
+.myfooter {
+    background-color: #2C363F;
+    }
+
+.masthead {
+    height: 100vh;
+    background-image: url(../img/1550658261_149637_1550658327_noticia_normal_recorte1.jpg);
+    background-size: cover ;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
